@@ -24,7 +24,7 @@ I believe I can develop technological innovations that help people and make thei
 ---
 
 ### 🛠 Technologies in my day
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=ubuntu,windows,html,css,python,js&theme=light" />
 </p>
 
