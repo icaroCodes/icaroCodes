@@ -24,9 +24,7 @@ I believe I can develop technological innovations that help people and make thei
 ---
 
 ### 🛠 Technologies in my day
-<p>
-  <img src="https://skillicons.dev/icons?i=ubuntu,windows,html,css,python,js&theme=light" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,react,vite,tailwind,nodejs,express,mysql,firebase,github,npm,vercel,figma&theme=light)](https://skillicons.dev)
 
 ### 🚀 Technologies I’m Learning
 [![My Skills](https://skillicons.dev/icons?i=ts,nextjs,threejs&theme=light)](https://skillicons.dev)
