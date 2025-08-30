@@ -23,7 +23,7 @@ I believe I can develop technological innovations that help people and make thei
 
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MauroDev2013&theme=light" />
+  <img src="https://github-readme-stats.vercel.app/api?username=icaroCodes&theme=light" />
 </p>
 
 ---
