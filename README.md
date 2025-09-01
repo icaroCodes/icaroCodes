@@ -22,9 +22,7 @@ I believe I can develop technological innovations that help people and make thei
 [![TikTok](https://img.shields.io/badge/TikTok-white?style=for-the-badge&logo=tiktok&logoColor=black)](https://www.tiktok.com/@programmericaro1)
 
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=icaroCodes&theme=light" />
-</p>
+
 
 ---
 
