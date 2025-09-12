@@ -29,9 +29,8 @@ I believe I can develop technological innovations that help people and make thei
 ---
 
 ### 🛠 Technologies in my day
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,react,vite,tailwind,nodejs,express,mysql,firebase,github,npm,vercel,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,react,vite,tailwind,threejs,nodejs,express,mysql,firebase,github,npm,vercel,figma&theme=light)](https://skillicons.dev)
 
-### 🚀 Technologies I’m Learning
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,threejs&theme=light)](https://skillicons.dev)
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=ffffff&animation=fadeIn" />
