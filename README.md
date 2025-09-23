@@ -28,7 +28,6 @@ I believe I can develop technological innovations that help people and make thei
   <img src="https://github-readme-stats.vercel.app/api?username=icaroCodes&theme=light" />
 </p>
 
-![Brian Moser Dexter GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTAydWN3b2lkejhncDkwbXEyaTdwNXFoYXQwd3FlMDQ3OTRjZGdyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vBaAyndSoLyCY/giphy.gif)
 
 ---
 
