@@ -28,8 +28,7 @@ I believe I can develop technological innovations that help people and make thei
   <img src="https://github-readme-stats.vercel.app/api?username=icaroCodes&theme=light" />
 </p>
 
-[![Im actually a vagrant](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://media.tenor.com/images/…/tenor.gif)
-
+[![Brian Moser](https://media.tenor.com/images/16525655759234927709/tenor.gif)](https://media.tenor.com/images/16525655759234927709/tenor.gif)
 
 ---
 
