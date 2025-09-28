@@ -37,7 +37,7 @@ I believe I can develop technological innovations that help people and make thei
 
 ### 🕘⌛ technologies I intend to learn
 
-[![My Skills](https://skillicons.dev/icons?i=swift,apple,mobile&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,apple&theme=light)](https://skillicons.dev)
 
 
 
