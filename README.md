@@ -5,7 +5,7 @@
 </p>
 
 ### 🌐 Fullstack Developer Prodigy | 12 years old
-I create projects with JavaScript, TypeScript, modern frameworks, libraries, and databases — always learning and evolving.
+I create projects with JavaScript, modern frameworks, libraries, and databases — always learning and evolving.
 >[!NOTE]
 > I'm only 12 years old, so I'm improving more and more every time.
 
