@@ -30,7 +30,7 @@ I believe I can develop technological innovations that help people and make thei
 ---
 
 ### 🛠 Technologies in my day
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,react,vite,tailwind,nodejs,express,mysql,firebase,github,vercel,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,react,vite,tailwind,nodejs,express,mysql,firebase,github,vercel,figma&theme=light)](https://skillicons.dev)
 
 
 
