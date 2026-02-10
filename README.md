@@ -4,19 +4,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=600&lines=Hi,+I'm+Ícaro+Machado!+🌐+💻" alt="Typing SVG" />
 </p>
 
-### 🌐 Fullstack Developer Prodigy | 12 years old
-I create projects with JavaScript, modern frameworks, libraries, and databases — always learning and evolving.
+### 🌐 Desenvolvedor Fullstack Prodígio | 12 anos
+Eu crio projetos com JavaScript, frameworks modernos, bibliotecas e bancos de dados — sempre aprendendo e evoluindo.
+
 >[!NOTE]
-> I'm only 12 years old, so I'm improving more and more every time.
+> Tenho apenas 12 anos, então estou melhorando cada vez mais.
 
-### 💻 Fullstack Development Course
-Enrolled in a professional, in-person course focusing on practical skills: HTML, CSS, JavaScript, React, Node.js, databases, Git, and more.
+### 💻 Curso de Desenvolvimento Fullstack
+Matriculado em um curso profissional presencial com foco em habilidades práticas: HTML, CSS, JavaScript, React, Node.js, bancos de dados, Git e mais.
 
-### 🤝 Open to Collaboration
-Always willing to contribute to projects — open source, professional organizations, or freelance. I love collaborating, learning from others, and transforming ideas into meaningful solutions.
+### 🤝 Aberto a Colaboração
+Sempre disposto a contribuir com projetos — open source, organizações profissionais ou freelance. Eu adoro colaborar, aprender com outras pessoas e transformar ideias em soluções significativas.
 
-### 🌱 Why I'm a Programmer
-I believe I can develop technological innovations that help people and make their lives easier. I enjoy solving problems and creating beautiful, minimalist interfaces. I work with front-end and back-end development, transforming ideas into real, practical solutions.
+### 🌱 Por que sou Programador
+Eu acredito que posso desenvolver inovações tecnológicas que ajudam as pessoas e tornam suas vidas mais fáceis. Eu gosto de resolver problemas e criar interfaces bonitas e minimalistas. Eu trabalho com desenvolvimento front-end e back-end, transformando ideias em soluções reais e práticas.
 
 ---
 
@@ -24,15 +25,9 @@ I believe I can develop technological innovations that help people and make thei
 [![TikTok](https://img.shields.io/badge/TikTok-white?style=for-the-badge&logo=tiktok&logoColor=black)](https://www.tiktok.com/@icarocodes)
 [![Youtube](https://img.shields.io/badge/Youtube-white?style=for-the-badge&logo=youtube&logoColor=black)](https://www.youtube.com/@icaroCodes)
 
-
-
-
 ---
 
-### 🛠 Technologies in my day
+### 🛠 Tecnologias no meu dia a dia
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,react,vite,tailwind,nodejs,express,mysql,firebase,github,vercel,figma&theme=light)](https://skillicons.dev)
-
-
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=ffffff&animation=fadeIn" />
