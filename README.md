@@ -28,6 +28,6 @@ Acredito na tecnologia como ferramenta para simplificar processos e melhorar a v
 ---
 
 ### 🛠 Tecnologias no meu dia a dia
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,react,vite,tailwind,nodejs,express,mysql,github,vercel,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,react,vite,tailwind,nodejs,express,mysql,github,vercel,figma,supabase&theme=light)](https://skillicons.dev)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=ffffff&animation=fadeIn" />
